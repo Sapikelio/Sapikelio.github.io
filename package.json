@@ -1,8 +1,8 @@
 {
-    "name": "website",
+    "name": "node-web",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Sapikelio.github.io/website/",
+    "homepage": "https://Sapikelio.github.io/",
     "dependencies": {
         "gh-pages": "^1.1.0",
         "react": "^16.2.0",
