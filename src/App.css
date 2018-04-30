@@ -22,6 +22,56 @@
   font-size: large;
 }
 
+.App-header-section{
+        padding-top: 10px;
+        padding-bottom: 50px;
+    background: #f5f8fa;
+    text-align: center;
+    min-height: 200px;
+        border: 1px solid rgba(0,0,0,.125);
+    margin-bottom: 30px;
+}
+.navbar{
+    margin-bottom: 0!important;
+    box-shadow: none!important;
+    border: 1px solid rgba(0,0,0,.125);
+    background: #fff;
+}
+
+.headerText{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: open sans,sans-serif;
+    color: #3a4145;
+    font-weight: 700;
+    line-height: 1.25;
+    font-size: 4em;
+}
+
+.headerSubtext{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: open sans,sans-serif;
+    color: #3a4145;
+    font-weight: 700;
+    line-height: 1.25;
+    font-size: 1.5em;
+}
+.profile-photo-wraper{
+        border: 4px solid #fff;
+        border-radius: 49.9%;
+    width: 200px;
+    height: 200px;
+        box-shadow: inset 0 1.5px 3px 0 rgba(0,0,0,.15), 0 1.5px 3px 0 rgba(0,0,0,.15);
+        margin: auto;
+    position: relative;
+        box-sizing: content-box;
+}
+
+.profile-photo{
+    border-radius: 50%;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
