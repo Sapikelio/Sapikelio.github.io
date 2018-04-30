@@ -2,7 +2,7 @@
     "name": "website",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Sapikelio.github.io/",
+    "homepage": "https://Sapikelio.github.io/website/",
     "dependencies": {
         "gh-pages": "^1.1.0",
         "react": "^16.2.0",
