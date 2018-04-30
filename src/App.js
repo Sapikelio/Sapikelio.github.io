@@ -14,17 +14,17 @@ export default class App extends Component {
         <Navbar collapseOnSelect>
             <Navbar.Header>
                 <Navbar.Brand>
-                    <a href="/#">Sapikelio</a>
+                    <a href="/website/#">Sapikelio</a>
                 </Navbar.Brand>
                 <Navbar.Toggle />
             </Navbar.Header>
             <Navbar.Collapse>
                 <Nav pullRight>
-                        <NavItem href="/#">
+                        <NavItem href="/website/#">
                             &nbsp;Home
                         </NavItem>
 
-                        <NavItem  href="/#/projects" >
+                        <NavItem  href="/website/#/projects" >
                             &nbsp;Projects
                         </NavItem>
 
