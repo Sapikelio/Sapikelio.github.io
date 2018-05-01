@@ -5,7 +5,7 @@ import {Link} from 'react-router';
 import {LinkContainer} from 'react-router-bootstrap';
 
 import { Button, Navbar, Nav, NavItem,Glyphicon } from 'react-bootstrap';
-
+import '../node_modules/font-awesome/css/font-awesome.min.css';
 
 export default class App extends Component {
   render() {
